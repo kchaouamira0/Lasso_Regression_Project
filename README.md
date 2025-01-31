@@ -49,10 +49,4 @@ Cependant, CGDA obtient **le meilleur RMSE pour λ=0.1**, ce qui indique une mei
 
 👉 **Les détails de la comparaison et les visualisations sont disponibles dans le rapport final.**
 
----
 
-## 📌 Comment exécuter le projet
-1. **Cloner le repository** :
-   ```bash
-   git clone https://github.com/kchaouamira0/Lasso_Regression_Project.git
-   cd Lasso_Regression_Project
